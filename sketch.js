@@ -32,7 +32,7 @@ function setup() {
   game.getState();
   game.start();
   
-}
+} 
 
 function draw() {
   background(back_img);
